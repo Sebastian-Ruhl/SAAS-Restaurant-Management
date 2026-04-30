@@ -26,7 +26,6 @@ Sistema multi-tenant que permite a múltiples restaurantes registrarse, elegir u
 ## Enlaces
 
 - [Requisitos Funcionales](Requisitos.md)
-- [DER](docs/DER.md) (si aplica)
 
 ## Licencia
 
